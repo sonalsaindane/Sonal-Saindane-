@@ -56,7 +56,7 @@
 ## 🚀 Projects
 
 - 📅 Event Venue Booking Application
-- 📚 Online Bookstore
+- 📚 Job Email Tracker
 - 🍎 WorldFruit – Fruit E-Commerce Website
 
 ---
