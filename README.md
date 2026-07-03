@@ -63,7 +63,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: sonalsaindane9@gmail.com
 - 💼 LinkedIn: linkedin.com/in/sonal-saindane-s76
 
 ---
