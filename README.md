@@ -1,23 +1,71 @@
 <h1 align="center">Hi 👋, I'm Sonal Saindane</h1>
-<h3 align="center">Full Stack Developer passionate about building scalable and impactful web applications.</h3>
 
-<h2>🌱 I'm Currently Learning</h2>
+<h3 align="center">🚀 Full Stack Java Developer | Building scalable web applications with modern technologies</h3>
 
-<ul>
-  <li>☕ Advanced Java &amp; Spring Boot</li>
-  <li>⚛️ React.js &amp; Modern Frontend Development</li>
-  <li>🧩 Data Structures &amp; Algorithms</li>
-  <li>🏗️ System Design Fundamentals</li>
-  <li>☁️ Docker &amp; Cloud Technologies</li>
-</ul>
+---
 
- 📫 How to reach me **saindanesonal9@gmail.com**
+## 👩‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonal saindane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal saindane" height="30" width="40" /></a>
-</p>
+- 🎓 Computer Science Graduate pursuing M.Tech
+- 💻 Full Stack Java Developer
+- 🌱 Currently learning Advanced Java, Spring Boot, React, DSA, System Design, Docker, and Cloud Technologies
+- 🚀 Passionate about building real-world web applications
+- 📚 Always learning and improving my software development skills
+- 🎯 Looking for Software Engineer opportunities
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- React.js
+
+### Backend
+- Spring Boot
+- Hibernate
+
+### Database
+- MySQL
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ Advanced Java & Spring Boot
+- ⚛️ React.js
+- 🧩 Data Structures & Algorithms
+- 🏗️ System Design
+
+
+---
+
+## 🚀 Projects
+
+- 📅 Event Venue Booking Application
+- 📚 Online Bookstore
+- 🍎 WorldFruit – Fruit E-Commerce Website
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: linkedin.com/in/sonal-saindane-s76
+
+---
+
+<h3 align="center">⭐ Code • Learn • Build • Improve ⭐</h3>
