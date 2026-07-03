@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sonal Saindane</h1>
 <h3 align="center">Full Stack Developer passionate about building scalable and impactful web applications.</h3>
 
-- 🌱 I’m currently learning **Advanced Java & Spring Boot - React.js & Modern Frontend Development - Data Structures & Algorithms - System Design Fundamentals - Docker & Cloud Technologies**
+<h2>🌱 I'm Currently Learning</h2>
 
-- 📫 How to reach me **saindanesonal9@gmail.com**
+<ul>
+  <li>☕ Advanced Java &amp; Spring Boot</li>
+  <li>⚛️ React.js &amp; Modern Frontend Development</li>
+  <li>🧩 Data Structures &amp; Algorithms</li>
+  <li>🏗️ System Design Fundamentals</li>
+  <li>☁️ Docker &amp; Cloud Technologies</li>
+</ul>
+
+ 📫 How to reach me **saindanesonal9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
